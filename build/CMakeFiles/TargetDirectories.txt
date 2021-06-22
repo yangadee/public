@@ -1,0 +1,3 @@
+C:/Users/ADE/Desktop/vscode/build/CMakeFiles/edit_cache.dir
+C:/Users/ADE/Desktop/vscode/build/CMakeFiles/opencv.dir
+C:/Users/ADE/Desktop/vscode/build/CMakeFiles/rebuild_cache.dir
