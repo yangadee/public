@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xstring": "cpp"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter":"ms-vscode.cpptools"//xaver.clang-format"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+}
