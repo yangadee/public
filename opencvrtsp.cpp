@@ -21,6 +21,8 @@ int main(int argc, char **argv)
         // Error
         return 0;
     }
+    // print out the fps of cam
+    cout << " The frame per second of cam is: " << capture.get(CAP_PROP_FPS) << endl;
 
     namedWindow("Test gui", CV_MINOR_VERSION);
 
